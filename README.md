@@ -6,7 +6,7 @@ I'm a **frontend developer** born in **Uruguay** and currently based in **Madrid
 
 👯 I’m looking to **network** and **collaborate** on open-source projects.
 
-📫 Feel free to reach out via email at [agustingomezdev@gmail.com](mailto:agustingomezdev@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/agustingomezblanco/)!
+📫 Feel free to reach me out via email at [agustingomezdev@gmail.com](mailto:agustingomezdev@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/agustingomezblanco/)!
 
 ###
 
