@@ -1,6 +1,6 @@
 # Hi, I'm Agustín Gómez 👋
 
-I'm a **frontend developer** born in **Uruguay** and currently based in **Madrid, Spain**.
+I'm a **frontend developer** born in **Montevideo, Uruguay** and currently based in **Madrid, Spain**.
 
 🌱 I’m currently diving into **C#** to expand my skill set.
 
@@ -20,4 +20,5 @@ I'm a **frontend developer** born in **Uruguay** and currently based in **Madrid
 
 ###
 
-[![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustingomezdev)](https://github.com/SrGobi/github-readme-stats)
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustingomezdev&theme=dark&show_icons=true&icon_color=3a84ff&hide_rank=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGomezDev&layout=compact&theme=dark)
