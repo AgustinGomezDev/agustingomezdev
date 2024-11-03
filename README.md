@@ -10,6 +10,7 @@ I'm a **frontend developer** born in **Montevideo, Uruguay** and currently based
 
 ###
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="10" />
@@ -18,7 +19,8 @@ I'm a **frontend developer** born in **Montevideo, Uruguay** and currently based
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
 </div>
 
-###
-
+<!--
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustingomezdev&theme=dark&show_icons=true&icon_color=3a84ff&hide_rank=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinGomezDev&layout=compact&theme=dark)
+*/
+-->
